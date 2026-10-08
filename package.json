@@ -1,0 +1,21 @@
+{
+  "name": "token-split",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test tests/*.test.ts",
+    "check:export": "node scripts/check-export.mjs"
+  },
+  "devDependencies": {
+    "typescript": "6.0.2",
+    "vite": "8.0.3"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  }
+}

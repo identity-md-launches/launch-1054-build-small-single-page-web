@@ -1,0 +1,68 @@
+[
+  {
+    "name": "body",
+    "foreground": "rgb(37, 46, 38)",
+    "background": "rgb(245, 243, 234)",
+    "ratio": 12.62
+  },
+  {
+    "name": "muted on surface",
+    "foreground": "rgb(96, 102, 91)",
+    "background": "rgb(255, 254, 249)",
+    "ratio": 5.86
+  },
+  {
+    "name": "muted on preview",
+    "foreground": "rgb(96, 102, 91)",
+    "background": "rgb(237, 240, 229)",
+    "ratio": 5.13
+  },
+  {
+    "name": "primary button",
+    "foreground": "rgb(255, 254, 249)",
+    "background": "rgb(63, 86, 48)",
+    "ratio": 8.04
+  },
+  {
+    "name": "success status",
+    "foreground": "rgb(48, 66, 37)",
+    "background": "rgb(220, 229, 213)",
+    "ratio": 8.39
+  },
+  {
+    "name": "decorative offline arrow",
+    "foreground": "rgb(96, 102, 91)",
+    "background": "rgb(245, 243, 234)",
+    "ratio": 5.32
+  },
+  {
+    "name": "control border on surface",
+    "foreground": "rgb(137, 143, 127)",
+    "background": "rgb(255, 254, 249)",
+    "ratio": 3.3
+  },
+  {
+    "name": "focus ring on surface",
+    "foreground": "rgb(38, 63, 54)",
+    "background": "rgb(255, 254, 249)",
+    "ratio": 11.26
+  },
+  {
+    "name": "focus ring on preview",
+    "foreground": "rgb(38, 63, 54)",
+    "background": "rgb(237, 240, 229)",
+    "ratio": 9.85
+  },
+  {
+    "name": "error status",
+    "foreground": "rgb(143, 55, 39)",
+    "background": "rgb(247, 232, 223)",
+    "ratio": 6.4
+  },
+  {
+    "name": "inline error",
+    "foreground": "rgb(143, 55, 39)",
+    "background": "rgb(255, 254, 249)",
+    "ratio": 7.58
+  }
+]

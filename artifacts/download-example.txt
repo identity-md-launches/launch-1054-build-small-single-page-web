@@ -1,0 +1,15 @@
+TOKEN SPLIT
+A community allocation sketch
+
+Total supply: 7 tokens
+
+Community: 33.3% | 2.331 tokens
+Liquidity: 33.3% | 2.331 tokens
+Contributors: 33.3% | 2.331 tokens
+Treasury: 0.1% | 0.007 tokens
+
+Total allocated: 100%
+
+Amounts = supply x allocation / 100. Exact to at most three decimal places.
+Illustrative plan only. No onchain data, vesting, prices, token decimal rules, or voting power are modeled.
+Created locally with Token Split. No wallet or account was used.

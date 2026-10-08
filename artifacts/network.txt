@@ -1,0 +1,4 @@
+1. [GET] http://localhost:4173/preview/ => [200] OK
+2. [GET] http://localhost:4173/preview/assets/index-BzpThrDX.js => [200] OK
+3. [GET] http://localhost:4173/preview/assets/index-BiHXfD9I.css => [200] OK
+4. [GET] http://localhost:4173/preview/favicon.svg => [200] OK

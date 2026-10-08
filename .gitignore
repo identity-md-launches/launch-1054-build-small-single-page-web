@@ -1,0 +1,15 @@
+# Generated directories at any depth. Keep dist/ and artifacts/ in the submission.
+node_modules/
+.playwright-mcp/
+.npm/
+.cache/
+.vite/
+.vite-temp/
+coverage/
+test-results/
+playwright-report/
+/test/scratch/
+!/dist/
+!/dist/**
+!/artifacts/
+!/artifacts/**

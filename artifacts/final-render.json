@@ -1,0 +1,12 @@
+{
+  "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36",
+  "width": 1200,
+  "scrollWidth": 1200,
+  "assets": [
+    "./favicon.svg",
+    "./assets/index-BzpThrDX.js",
+    "./assets/index-BiHXfD9I.css"
+  ],
+  "headingFont": "55.2px",
+  "bodyFont": "16px"
+}

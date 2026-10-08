@@ -1,0 +1,38 @@
+{
+  "result": "passed",
+  "runtimeAssets": [
+    "./favicon.svg",
+    "./assets/index-BzpThrDX.js",
+    "./assets/index-BiHXfD9I.css"
+  ],
+  "exportFiles": [
+    {
+      "path": "dist/assets/index-BiHXfD9I.css",
+      "bytes": 15224,
+      "sha256": "908ad47a7324a343f9991c3267cb62d83289400f16ee75ea7b4a9c528cf8b4f9"
+    },
+    {
+      "path": "dist/assets/index-BzpThrDX.js",
+      "bytes": 8068,
+      "sha256": "3460b3edd3ee3e07a83917270a5946ef1dbf06367f551fda57126248bc2800ee"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "bytes": 232,
+      "sha256": "db32a5954757010d2ac49dc2fa20f5e38880a632cf3cd53e523e491d015d7389"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 6420,
+      "sha256": "66032d07fb3dc652a82706563c17055079b4c11b2e0680fdf10e31b84abfe096"
+    }
+  ],
+  "exportBytes": 29944,
+  "submissionFilesExcludingReport": 39,
+  "payloadBytesExcludingReport": 1164032,
+  "reportAllowanceBytes": 4096,
+  "archiveHeaderAllowanceBytes": 258048,
+  "conservativeSubmissionBytes": 1426176,
+  "limitBytes": 8388608,
+  "scope": "All deliverable files, excluding supplied inputs, protected metadata and disposable browser/scratch output. Git metadata is not read or modified."
+}
